@@ -3,7 +3,7 @@
 
 ## Hello there!
 
-<p>I am Nicolás Silva, Fullstack web developer and designer
+<p>I am Nicolás Hernán Silva, aka Koppeks, Fullstack web developer and UX/UI designer.
 </p>
 
 <!--Introduction -->
@@ -14,7 +14,7 @@
 <!-- - 🔧 I’m currently working on ...Online Retail Community App. -->
 
 - 🌟 I’m curious about ... the universe, nature and AI
-- 📖 I’m currently learning ... Sass and Typescript.
+- 📖 I’m currently learning ... Python.
 - 📫 How to reach me ... koppeks.contactos@gmail.com.
 
 <hr>

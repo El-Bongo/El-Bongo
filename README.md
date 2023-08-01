@@ -25,6 +25,7 @@
 <a href="mailto:koppeks.contactos@gmail.com"><img src="https://img.shields.io/badge/-koppeks.contactos@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/nico.silva.08/"><img src="https://img.shields.io/badge/-nico.silva.08-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.discord.com/users/360895618966880259"><img src="https://img.shields.io/badge/-koppeks-7289da?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://nicolas-silva.vercel.app/"><img src="https://img.shields.io/badge/-NicolásSilva-white?style=for-the-badge&logo=About.me&logoColor=3C956A"/></a>
 </p>
 
 

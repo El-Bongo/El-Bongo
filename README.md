@@ -17,7 +17,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koppeks&show_icons=true&theme=shadow_blue))](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Koppeks)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Koppeks)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
  📡 Connect with me 📱

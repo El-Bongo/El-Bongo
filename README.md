@@ -11,11 +11,11 @@
 
 </br>
 
-<!-- - 🔧 I’m currently working on ...Online Retail Community App. -->
-
-- 🌟 I’m curious about ... the universe, nature and AI
-- 📖 I’m currently learning ... Python.
+- 🔧 I’m currently contributing to open-source projects.
+- 📖 I’m currently learning ... Typescript.
 - 📫 How to reach me ... koppeks.contactos@gmail.com.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koppeks)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
  📡 Connect with me 📱

@@ -4,27 +4,22 @@
 	<img title="React" alt="react" src="./react.svg" width="60" height="40" />
 	<img title="NodeJS" alt="NodeJS" src="./nodejs.svg" width="60" height="40" />
 	<img title="JavaScript" alt="JavaScript" src="./javascript.svg" width="60"  height="40" />
-	<img title="html" alt="html" src="./html.svg" width="60"  height="40" />
 	<img title="sass" alt="sass" src="./sass.svg" width="60"  height="40" />
-	<img title="reduxtoolkit" alt="reduxtoolkit" src="./reduxtoolkit.svg" width="60"  height="40" />
 	<img title="sequelize" alt="sequelize" src="./sequelize.svg" width="60"  height="40" />
-	<img title="tailwind" alt="tailwind" src="./tailwind.svg" width="60"  height="40" />
-	<img title="github" alt="github" src="./github.svg" width="60"  height="40" />
-	<img title="express" alt="express" src="./express.svg" width="60"  height="40" />
-	<img title="css" alt="css" src="./css.svg" width="60"  height="40" />
 	<img title="materialui" alt="materialui" src="./materialui.svg" width="60"  height="40" />
 </p>
 </br>
-<githubstats>
-	<p align="center">	
-		[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Koppeks&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-	</p>
-</githubstats>
-<details>
-	<p align="center">	
-		<figure><embed src="https://wakatime.com/share/@Koppeks/8bc26f53-a743-4a16-a029-7371aada1569.svg"></embed></figure>
-	</p>
-</details>
+
+## Github statistics
+<p align = "center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Koppeks"/>
+</p>
+
+## My last 30 days I worked with
+<p align = "center">
+	<img src="https://wakatime.com/share/@Koppeks/8bc26f53-a743-4a16-a029-7371aada1569.svg" height="360"/>
+</p>
+
 <hr>
  📡 Connect with me 📱
 

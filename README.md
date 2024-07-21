@@ -1,38 +1,5 @@
 <!-- Greeting -->
-<img title="Logo" alt="Logo" src="./Logo.svg" width="40" height="40" />
-
 ## Hello there!
-
-<p>I am Nicolás Hernán Silva, aka Koppeks, Fullstack web developer and UX/UI designer.
-</p>
-
-<!--Introduction -->
-## 🧑🏽 About Me
-
-</br>
-
-- 🔧 I’m currently contributing to open-source projects.
-- 📖 I’m currently learning ... Typescript.
-- 📫 How to reach me ... koppeks.contactos@gmail.com.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koppeks&show_icons=true&theme=shadow_blue))](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Koppeks)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
- 📡 Connect with me 📱
-
-<p>
-<a href="https://www.linkedin.com/in/nicolas-silva/"><img src="https://img.shields.io/badge/-Nicolás%20Silva-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:koppeks.contactos@gmail.com"><img src="https://img.shields.io/badge/-koppeks.contactos@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/nico.silva.08/"><img src="https://img.shields.io/badge/-nico.silva.08-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.discord.com/users/360895618966880259"><img src="https://img.shields.io/badge/-koppeks-7289da?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://nicolas-silva.vercel.app/"><img src="https://img.shields.io/badge/-Nicolás Silva-3C956A?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-</p>
-
-
-### My skills include
-
 <p>
 	<img title="React" alt="react" src="./react.svg" width="60" height="40" />
 	<img title="NodeJS" alt="NodeJS" src="./nodejs.svg" width="60" height="40" />
@@ -47,14 +14,19 @@
 	<img title="css" alt="css" src="./css.svg" width="60"  height="40" />
 	<img title="materialui" alt="materialui" src="./materialui.svg" width="60"  height="40" />
 </p>
+</br>
 
-### Tools
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koppeks&show_icons=true&theme=shadow_blue&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Koppeks)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+ 📡 Connect with me 📱
 
 <p>
-<img src="https://img.shields.io/badge/-Figma-white?style=for-the-badge&logo=Figma"/>
-<img src="https://img.shields.io/badge/-Notion-666?style=for-the-badge&logo=Notion"/>
-<img src="https://img.shields.io/badge/-Jira-0077B5?style=for-the-badge&logo=Jira"/>
-<img src="https://img.shields.io/badge/-Trello-0087E9?style=for-the-badge&logo=Trello"/>
-<img src="https://img.shields.io/badge/-Gimp-442E25?style=for-the-badge&logo=Gimp"/>
-<img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub"/>
+<a href="https://www.linkedin.com/in/nicolas-silva/"><img src="https://img.shields.io/badge/-Nicolás%20Silva-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:koppeks.contactos@gmail.com"><img src="https://img.shields.io/badge/-koppeks.contactos@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/nico.silva.08/"><img src="https://img.shields.io/badge/-nico.silva.08-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.discord.com/users/360895618966880259"><img src="https://img.shields.io/badge/-koppeks-7289da?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://nicolas-silva.vercel.app/"><img src="https://img.shields.io/badge/-Nicolás Silva-3C956A?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>

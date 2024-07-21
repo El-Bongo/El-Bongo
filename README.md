@@ -15,7 +15,9 @@
 - 📖 I’m currently learning ... Typescript.
 - 📫 How to reach me ... koppeks.contactos@gmail.com.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koppeks)](https://github.com/anuraghazra/github-readme-stats)  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Koppeks)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koppeks)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Koppeks)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
  📡 Connect with me 📱

@@ -15,11 +15,11 @@
 	<img title="materialui" alt="materialui" src="./materialui.svg" width="60"  height="40" />
 </p>
 </br>
-<details>
+<github-stats>
 	<p align="center">	
 		[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koppeks&show_icons=true&theme=shadow_blue&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))](https://github.com/anuraghazra/github-readme-stats)
 	</p>
-</details>
+</github-stats>
 <details>
 	<p align="center">	
 		<figure><embed src="https://wakatime.com/share/@Koppeks/8bc26f53-a743-4a16-a029-7371aada1569.svg"></embed></figure>

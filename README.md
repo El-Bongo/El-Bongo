@@ -1,6 +1,6 @@
 <!-- Greeting -->
 ## Hello there!
-<p>
+<p align="center">
 	<img title="React" alt="react" src="./react.svg" width="60" height="40" />
 	<img title="NodeJS" alt="NodeJS" src="./nodejs.svg" width="60" height="40" />
 	<img title="JavaScript" alt="JavaScript" src="./javascript.svg" width="60"  height="40" />
@@ -16,8 +16,11 @@
 </p>
 </br>
 
+<p align="center">
+	
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koppeks&show_icons=true&theme=shadow_blue&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))](https://github.com/anuraghazra/github-readme-stats)
 
+</p>
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Koppeks)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>

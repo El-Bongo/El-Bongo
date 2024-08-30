@@ -15,6 +15,9 @@
 <p align = "center">
 	<img src="https://wakatime.com/share/@Koppeks/8bc26f53-a743-4a16-a029-7371aada1569.svg" height="360"/>
 </p>
+
 ### Currently learning
-Typescript, NextJS & Prisma
+<p>
+NextJS, Typescript & Prisma ORM
+</p>
 
